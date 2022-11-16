@@ -5,7 +5,7 @@ This repository contains:
 - 1-TimeStudy.ipynb for searching most optimal hyperparameters acording to time
 - 2-ColonyVsGenetic.ipynb for comparing ant colony optimization with genetic algorythm
 - 3-Konkurs.ipynb for searching most optimal hyperparameters acording to distance given cities
-- Results are ReadMe.md
+- Results are in ReadMe.md
 
 # Results
 
